@@ -1,3 +1,4 @@
 whl is a good man
 whl is a nice man
-whl is a good 
+whl is a good man 
+whl is a nice
